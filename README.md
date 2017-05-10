@@ -1,7 +1,7 @@
 # Strongman Game
 An implementation of the Strongman Game from the fair/carnival using a force sensor and lights controlled by an Arduino Uno.
 
-![](images 1.png?raw=true)
+https://cloud.githubusercontent.com/assets/10844197/25919538/a4c3c088-3594-11e7-84c1-afbb88afff4b.png
 
 ## Parts list:
 * Arduino Uno
