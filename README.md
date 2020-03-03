@@ -21,4 +21,4 @@ https://cloud.githubusercontent.com/assets/10844197/25919538/a4c3c088-3594-11e7-
     * Getting the max force causes all LEDs to illuminate and displays an animation
     * When no force is applied, they cycle through an animation
 * Arduino Uno
-    * Controlls everything
+    * Controls everything
